@@ -1,4 +1,3 @@
-# India's-inflation-dashboard
 # India CPI Inflation Analysis Dashboard (2021–2025)
 
 ## Project Overview
