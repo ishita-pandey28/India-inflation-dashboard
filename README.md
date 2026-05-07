@@ -92,6 +92,7 @@ Through this project, I strengthened my skills in:
 ## Author
 
 **Ishita Pandey**
+
 (Master of Arts in Economics)
 
 
