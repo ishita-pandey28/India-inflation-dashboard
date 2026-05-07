@@ -1,2 +1,2 @@
-# India-inflation-dashboard
-Interactive India Inflation Dashboard built using Excel and Power BI.
+# India's-inflation-dashboard
+India's Inflation Dashboard built using Excel and Power BI.
